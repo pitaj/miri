@@ -12,3 +12,4 @@ allow-unauthenticated = [
 
 [no-merges]
 exclude_titles = ["Rustup"]
+labels = ["has-merge-commits"]
